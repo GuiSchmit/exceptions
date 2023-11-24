@@ -1,0 +1,15 @@
+/Users/gui/Projects/Exceptions/Exceptions/bin/Debug/net7.0/Exceptions
+/Users/gui/Projects/Exceptions/Exceptions/bin/Debug/net7.0/Exceptions.deps.json
+/Users/gui/Projects/Exceptions/Exceptions/bin/Debug/net7.0/Exceptions.runtimeconfig.json
+/Users/gui/Projects/Exceptions/Exceptions/bin/Debug/net7.0/Exceptions.dll
+/Users/gui/Projects/Exceptions/Exceptions/bin/Debug/net7.0/Exceptions.pdb
+/Users/gui/Projects/Exceptions/Exceptions/obj/Debug/net7.0/Exceptions.csproj.AssemblyReference.cache
+/Users/gui/Projects/Exceptions/Exceptions/obj/Debug/net7.0/Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gui/Projects/Exceptions/Exceptions/obj/Debug/net7.0/Exceptions.AssemblyInfoInputs.cache
+/Users/gui/Projects/Exceptions/Exceptions/obj/Debug/net7.0/Exceptions.AssemblyInfo.cs
+/Users/gui/Projects/Exceptions/Exceptions/obj/Debug/net7.0/Exceptions.csproj.CoreCompileInputs.cache
+/Users/gui/Projects/Exceptions/Exceptions/obj/Debug/net7.0/Exceptions.dll
+/Users/gui/Projects/Exceptions/Exceptions/obj/Debug/net7.0/refint/Exceptions.dll
+/Users/gui/Projects/Exceptions/Exceptions/obj/Debug/net7.0/Exceptions.pdb
+/Users/gui/Projects/Exceptions/Exceptions/obj/Debug/net7.0/Exceptions.genruntimeconfig.cache
+/Users/gui/Projects/Exceptions/Exceptions/obj/Debug/net7.0/ref/Exceptions.dll

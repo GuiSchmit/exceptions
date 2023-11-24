@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{0CCB58AD-62CB-4C41-84B7-DE634C4A7FB8}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exceptions/Entities/Account.cs">
+    <Files>
+      <File FileName="Exceptions/Program.cs" Line="1" Column="1" />
+      <File FileName="Exceptions/Entities/Account.cs" Line="30" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exceptions" expanded="True">
+            <Node name="Exceptions" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="Account.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Exceptions PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
